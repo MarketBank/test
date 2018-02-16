@@ -1,0 +1,1 @@
+var config={countdown:{year:2018,month:6,day:21,hour:12,minute:12,second:21},subscription_form_tooltips:{empty_email:'Please, Enter your ETH address',invalid_email:'ETH address is invalid. Enter valid ETH address',default_error:'Error! Contact administration'}}
